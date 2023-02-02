@@ -1,7 +1,7 @@
 # inst-bot
 
 
-'''
+```
 pkg up 
 
 pkg upgrade
@@ -15,7 +15,10 @@ cd inst-bot
 chmod 777 insta-bot.sh
 
 ./insta-bot.sh
-'''
+```
+
+
+
 <p align="center">
 
 <img src='https://github.com/Alienrazor/SS/blob/main/Sot_20230121_180957.jpg' style="height:600px;width:280px;" >
